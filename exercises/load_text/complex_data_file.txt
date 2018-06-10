@@ -1,0 +1,13 @@
+-- THIS IS THE BEGINNING OF THE FILE --
+% This is a more complex file to read!
+
+% Day,  Month,  Year, Useless Col, Avg Power
+   01,     01,  2000,      ad766,         30 
+   02,     01,  2000,       t873,         41
+% we don't have Jan 03rd!
+   04,     01,  2000,       r441,         55
+   05,     01,  2000,       s345,         78
+   06,     01,  2000,       x273,        134 % that day was crazy
+   07,     01,  2000,       x355,         42
+
+%-- THIS IS THE END OF THE FILE --
